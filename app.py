@@ -8,7 +8,7 @@ server = 'workreportserver.database.windows.net'
 database = 'WorkReportDB'
 username = 'it'
 password = 'ctspl!123'
-driver= '{ODBC Driver 17 for SQL Server}'
+driver= '{ODBC Driver 13 for SQL Server}'
 cnxn_str = 'DRIVER='+driver+';SERVER=tcp:'+server+';PORT=1433;DATABASE='+database+';UID='+username+';PWD='+ password
  
  
